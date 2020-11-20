@@ -17,6 +17,7 @@
 
 .screen-header__icons {
   position: relative;
+  display: flex;
 }
 
 .screen-header__icons__notification {
